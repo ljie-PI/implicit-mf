@@ -1,6 +1,7 @@
 implicitMF
 ==========
 实现参考 [http://labs.yahoo.com/files/HuKorenVolinsky-ICDM08.pdf](http://labs.yahoo.com/files/HuKorenVolinsky-ICDM08.pdf)
+
 训练数据来源 [http://grouplens.org/datasets/movielens](http://grouplens.org/datasets/movielens) 
 
 ### 环境依赖
